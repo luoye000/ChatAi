@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ChatAi</string>
+
+    <!---->
+    <string name="not_open">功能暂未开放</string>
+
+    <string name="user_ico">用户头像</string>
+    <string name="user_name">未登录</string>
+    <string name="motto">Ai聊天工具解答你的困惑</string>
+
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_done">完成</string>
+
+    <string name="menu_api">自定义API</string>
+    <string name="menu_window">悬浮窗</string>
+
+    <!--悬浮窗-->
+    <string name="dialog_window_title">需要悬浮窗权限</string>
+    <string name="dialog_window_value">该功能需要授予悬浮窗权限!!!</string>
+    <string name="dialog_window_confirm">授权</string>
+    <string name="dialog_window_cancel">取消</string>
+
+
+    <string name="homeFragment_name">首页</string>
+    <string name="chatFragment_name">Chat</string>
+
+
+    <string name="submit">提交</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="api_key">填写API</string>
+    <string name="hint_edit_add_api_key">sk-****************************</string>
+    <string name="api_key_name">填写API别名</string>
+    <string name="hint_edit_add_api_key_name">API别名</string>
+    <string name="delete">删除</string>
+    <string name="open">启用</string>
+    <string name="disabled">停用</string>
+    <string name="add_api_key_open_value">默认KEY</string>
+    <string name="delete_key">删除KEY</string>
+    <string name="delete_key_message">确认要删除KEY吗?</string>
+
+    <string name="delete_history">删除历史对话</string>
+    <string name="delete_history_message">确认删除历史对话吗?</string>
+
+
+
+    <string name="my_api">我的API</string>
+    <string name="open_api">已启用的API</string>
+    <string name="adapter_history_value">历史对话</string>
+    <string name="cache_name">这是一个临时名字</string>
+
+    <string name="chat_edit">请输入内容...</string>
+    <string name="chat_edit_eorr">出现错误请重试...</string>
+    <string name="network_eorr">网络异常</string>
+    <string name="api_fail">API Key无效</string>
+
+
+</resources>

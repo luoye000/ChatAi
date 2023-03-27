@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#A990FE</color>
+    <color name="purple_500">#A990FE</color>
+    <color name="purple_700">#A990FE</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="f3">#F3F3F3</color>
+    <color name="_33">#FF333333</color>
+
+    <!--抽屉头部颜色-->
+    <color name="side_nav_bar">#BEACFF</color>
+
+
+    <color name="bg_activity_api">#88C1D5FE</color>
+
+
+    <color name="bg_fragment_chat">#88C1D5FE</color>
+    <color name="bg_fragment_home">#88C1D5FE</color>
+    <color name="bg_adapter_manager">#F8F8F8</color>
+
+
+
+
+
+    <!--反馈色-->
+    <color name="ripple">#A990FE</color>
+    <color name="ripple_stroke">#BEACFF</color>
+    <color name="ripple_solid">#C1D5FE</color>
+</resources>
